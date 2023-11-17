@@ -1,0 +1,2 @@
+2023-11-16,50.0,transportation,transportation fee
+2023-11-16,35.0,groceries,groceries amount
